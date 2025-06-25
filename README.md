@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-confirmation-rate](https://github.com/Himanshu12211967/SQL-50/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Himanshu12211967/SQL-50/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Himanshu12211967/SQL-50/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Himanshu12211967/SQL-50/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Himanshu12211967/SQL-50/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
