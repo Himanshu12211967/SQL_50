@@ -30,8 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Himanshu12211967/SQL-50/tree/master/0283-move-zeroes) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Himanshu12211967/SQL-50/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Himanshu12211967/SQL-50/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Himanshu12211967/SQL-50/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
