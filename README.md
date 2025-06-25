@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/Himanshu12211967/SQL-50/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/Himanshu12211967/SQL-50/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/Himanshu12211967/SQL-50/tree/master/1153-product-sales-analysis-i) |
+| [1161-project-employees-i](https://github.com/Himanshu12211967/SQL-50/tree/master/1161-project-employees-i) |
 | [1480-movie-rating](https://github.com/Himanshu12211967/SQL-50/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Himanshu12211967/SQL-50/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Himanshu12211967/SQL-50/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
