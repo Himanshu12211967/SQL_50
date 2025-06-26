@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Himanshu12211967/SQL-50/tree/master/0283-move-zeroes) |
+| [0713-subarray-product-less-than-k](https://github.com/Himanshu12211967/SQL-50/tree/master/0713-subarray-product-less-than-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Himanshu12211967/SQL-50/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
@@ -45,5 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Himanshu12211967/SQL-50/tree/master/0713-subarray-product-less-than-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Himanshu12211967/SQL-50/tree/master/0882-peak-index-in-a-mountain-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Himanshu12211967/SQL-50/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Himanshu12211967/SQL-50/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
