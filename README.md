@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Himanshu12211967/SQL-50/tree/master/0283-move-zeroes) |
 | [0713-subarray-product-less-than-k](https://github.com/Himanshu12211967/SQL-50/tree/master/0713-subarray-product-less-than-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Himanshu12211967/SQL-50/tree/master/0882-peak-index-in-a-mountain-array) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Himanshu12211967/SQL-50/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,8 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Himanshu12211967/SQL-50/tree/master/0713-subarray-product-less-than-k) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Himanshu12211967/SQL-50/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Himanshu12211967/SQL-50/tree/master/0713-subarray-product-less-than-k) |
+## Hash Table
+|  |
+| ------- |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Himanshu12211967/SQL-50/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
