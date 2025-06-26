@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Himanshu12211967/SQL-50/tree/master/0713-subarray-product-less-than-k) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Himanshu12211967/SQL-50/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Himanshu12211967/SQL-50/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Himanshu12211967/SQL-50/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+## String
+|  |
+| ------- |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Himanshu12211967/SQL-50/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
