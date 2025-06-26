@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Himanshu12211967/SQL-50/tree/master/0283-move-zeroes) |
 | [0713-subarray-product-less-than-k](https://github.com/Himanshu12211967/SQL-50/tree/master/0713-subarray-product-less-than-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Himanshu12211967/SQL-50/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Himanshu12211967/SQL-50/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Himanshu12211967/SQL-50/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Himanshu12211967/SQL-50/tree/master/0713-subarray-product-less-than-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Himanshu12211967/SQL-50/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Himanshu12211967/SQL-50/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Himanshu12211967/SQL-50/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Himanshu12211967/SQL-50/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Himanshu12211967/SQL-50/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
